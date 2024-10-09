@@ -27,6 +27,8 @@ ol {
   list-style: none;
 }
 
+/* мои стили */
+
 .page {
   display: flex;
   inline-size: 1200px;
